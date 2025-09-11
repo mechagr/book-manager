@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Title": "G\u00F6del, Escher, Bach: an Eternal Golden Braid",
+    "Author": "Douglas Hofstadter",
+    "Year": 1979,
+    "Genre": "Philosophy"
+  },
+  {
+    "Id": 2,
+    "Title": "Simulacra and Simulation",
+    "Author": "Jean Baudrillard",
+    "Year": 1981,
+    "Genre": "Philosophy"
+  },
+  {
+    "Id": 3,
+    "Title": "Zen and the Art of Motorcycle Maintenance",
+    "Author": "Robert M. Pirsig",
+    "Year": 1974,
+    "Genre": "Biography"
+  }
+]
